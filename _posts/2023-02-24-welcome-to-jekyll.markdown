@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: defaulVI .GIT/CONFIG
 title:  "Welcome to Jekyll!"
 date:   2023-02-24 00:11:42 -0600
 categories: jekyll update
